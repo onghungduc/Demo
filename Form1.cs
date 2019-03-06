@@ -15,10 +15,9 @@ namespace Demo
         {
             InitializeComponent();
         }
-	private void initButon(){
-		if(1=1){
-			int a = 1 + 1;
-		}
-	}
+        private void initButon()
+        {
+            int a = 2 + 1;
+        }
     }
 }
