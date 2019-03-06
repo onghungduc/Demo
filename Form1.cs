@@ -16,6 +16,9 @@ namespace Demo
             InitializeComponent();
         }
 	private void initButon(){
+		if(1=1 && 2=2){
+			int a = 2 + 1;
+		}
 	}
     }
 }
