@@ -15,5 +15,7 @@ namespace Demo
         {
             InitializeComponent();
         }
+	private void initButon(){
+	}
     }
 }
